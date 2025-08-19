@@ -32,4 +32,4 @@ Nada será exibido no terminal para evitar resultados inválidos.
 
 Loop contínuo até o usuário decidir sair
 
-A calculadora continua funcionando até que o usuário escolha a opção s para encerrar o programa.
+A calculadora continua funcionando até que o usuário escolha a opção "s" para encerrar o programa.
